@@ -2,7 +2,7 @@
 
 ### JS modules 1 and 2
 
-[My link to js mod 1 folder at users.metropolia.fi](https://users.metropolia.fi/~gokhank/Software2-JavaScript_Assignments/)
+[My link to js mod 1 and 2 folder at users.metropolia.fi](https://users.metropolia.fi/~gokhank/Software2-JavaScript_Assignments/)
 
 Completed assignments:
 
